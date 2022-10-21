@@ -1,0 +1,45 @@
+/* Lato */
+@font-face {
+    font-family:  'Lato Bold', sans-serif;
+    src: url(../fonts/Lato/Lato-Bold/Lato-Bold.ttf);
+    src: url(../fonts/Lato/Lato-Bold/Lato-Bold.eot);
+    src: url(../fonts/Lato/Lato-Bold/Lato-Bold.woff);
+    src: url(../fonts/Lato/Lato-Bold/Lato-Bold.woff2);
+}
+@font-face {
+    font-family:  'Lato Light', sans-serif;
+    src: url(../fonts/Lato/Lato-Light/Lato-Light.ttf);
+    src: url(../fonts/Lato/Lato-Light/Lato-Light.eot);
+    src: url(../fonts/Lato/Lato-Light/Lato-Light.woff);
+    src: url(../fonts/Lato/Lato-Light/Lato-Light.woff2);
+}
+@font-face {
+    font-family:  'Lato Regular', sans-serif;
+    src: url(../fonts/Lato/Lato-Regular/Lato-Regular.ttf);
+    src: url(../fonts/Lato/Lato-Regular/Lato-Regular.eot);
+    src: url(../fonts/Lato/Lato-Regular/Lato-Regular.woff);
+    src: url(../fonts/Lato/Lato-Regular/Lato-Regular.woff2);
+}
+/* Roboto */
+@font-face {
+    font-family: 'Roboto Medium', sans-serif;
+    src: url(../fonts/Roboto/Roboto-Medium/Roboto-Medium.ttf);
+    src: url(../fonts/Roboto/Roboto-Medium/Roboto-Medium.eot);
+    src: url(../fonts/Roboto/Roboto-Medium/Roboto-Medium.woff);
+    src: url(../fonts/Roboto/Roboto-Medium/Roboto-Medium.woff2);
+}
+@font-face {
+    font-family: 'Roboto Regular', sans-serif;
+    src: url(../fonts/Roboto/Roboto-Regular/Roboto-Regular.ttf);
+    src: url(../fonts/Roboto/Roboto-Regular/Roboto-Regular.eot);
+    src: url(../fonts/Roboto/Roboto-Regular/Roboto-Regular.woff);
+    src: url(../fonts/Roboto/Roboto-Regular/Roboto-Regular.woff2);
+}
+/* Poppins */
+@font-face {
+    font-family: 'Poppins Regular', sans-serif;
+    src: url(../fonts/Poppins/Poppins-Regular.ttf);
+    src: url(../fonts/Poppins/Poppins-Regular.eot);
+    src: url(../fonts/Poppins/Poppins-Regular.woff);
+    src: url(../fonts/Poppins/Poppins-Regular.woff2);
+}

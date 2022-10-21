@@ -1,0 +1,33 @@
+/* header */
+.header{
+    width: 1226px;
+    display: flex;
+    margin: 32px 46px 0 94px;
+}
+.logo{
+    width: 135px;
+    color: #3D37F1;
+    font-size: 23px;
+    font-family: 'Lato Bold', sans-serif;
+    font-weight: bold;
+}
+.logo::after{
+    content: "UiExpert";
+    font-size: 23px;
+    color: #4B647E;
+    margin-left: 9px;
+    font-family: 'Lato Light', sans-serif;
+    font-weight: lighter;
+}
+.navigation{
+    width: 424px;
+    margin-left: 667px;
+    display: flex;
+    justify-content: space-between;
+}
+.li-text{
+    color: #3D37F1;
+    font-size: 14px;
+    font-family: 'Lato Bold', sans-serif;
+    font-weight: bold;
+}
